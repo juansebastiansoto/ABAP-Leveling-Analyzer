@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YBC001</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages for IT Internal Solutions</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <MSGNR>000</MSGNR>
+     <TEXT>Configuration for &amp;1 is missing.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Complete at least Package, TR or Object Type and Object Name.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Out of scope.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Analyzing object &amp;1 of &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>Starting selection objects.</TEXT>
+    </T100>
+   </T100>
+   <I18N_LANGS>
+    <LANGU>S</LANGU>
+   </I18N_LANGS>
+   <T100T>
+    <T100T>
+     <SPRSL>S</SPRSL>
+     <ARBGB>YBC001</ARBGB>
+     <STEXT>Mensajes para soluciones internas de IT</STEXT>
+    </T100T>
+   </T100T>
+   <T100_TEXTS>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>000</MSGNR>
+     <TEXT>Configuración para &amp;1 faltante.</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>001</MSGNR>
+     <TEXT>Complete al menos Paquete, OT o Tipo de objeto y nombre del objeto.</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>002</MSGNR>
+     <TEXT>Fuera de alcance.</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>003</MSGNR>
+     <TEXT>Analizando objeto &amp;1 de &amp;2.</TEXT>
+    </item>
+    <item>
+     <SPRSL>S</SPRSL>
+     <MSGNR>004</MSGNR>
+     <TEXT>Comenzando selección de objetos.</TEXT>
+    </item>
+   </T100_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

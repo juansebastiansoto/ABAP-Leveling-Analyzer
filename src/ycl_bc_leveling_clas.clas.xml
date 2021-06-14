@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Object CLAS - Leveling Analyzer</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CONSTRUCTOR</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>GET_OBJECT_CONTENT_CLSD</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the class definition content</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>GET_OBJECT_CONTENT_CPRI</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the private class definition content</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>GET_OBJECT_CONTENT_CPRO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the protected class definition content</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>GET_OBJECT_CONTENT_CPUB</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the public class definition content</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING_CLAS</CLSNAME>
+     <CMPNAME>MOVE_CHANGED_DATA</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Move the changedon and changedby data</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

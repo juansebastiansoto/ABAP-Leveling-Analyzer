@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Object Leveling Analyzer</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <LINES>
+    <TLINE>
+     <TDFORMAT>U1</TDFORMAT>
+     <TDLINE>&amp;FUNCTIONALITY&amp;</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+     <TDLINE>a</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>U1</TDFORMAT>
+     <TDLINE>&amp;RELATIONS&amp;</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+     <TDLINE>aa</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>U1</TDFORMAT>
+     <TDLINE>&amp;EXAMPLE&amp;</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+     <TDLINE>a</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>U1</TDFORMAT>
+     <TDLINE>&amp;HINTS&amp;</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+     <TDLINE>a</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>U1</TDFORMAT>
+     <TDLINE>&amp;FURTHER_SOURCES_OF_INF&amp;</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+     <TDLINE>a</TDLINE>
+    </TLINE>
+    <TLINE>
+     <TDFORMAT>AS</TDFORMAT>
+    </TLINE>
+   </LINES>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>ADD_TO_STRING</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Convert standard table to string table a add it into a strin</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>ANALYZE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Run analyzer process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>CALCULATE_HASH</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Calculate the hash</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>CONSTRUCTOR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Constructor</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>CONVERT_LIMU_TO_R3TR</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Convert sub object into the main object</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>DESTINATIONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Leveling Analyzer Destinations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>DETERMINE_TEXT_OBJECT_CODE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>From the E071 object, set the SEU Object Type</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>EXISTENCE_CHECK</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Check if the object exist</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_INSTANCE</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Analyzer Instance</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_LOCK_ENTRY</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get the last transport request</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_OBJECT_CONTENT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the object content in a string</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_OBJECT_LIST</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the object list for this class</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_OBJECT_TYPE_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the object type description text</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>GET_RESULT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Return the analyze result</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>OBJECT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>CTS Object Key</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>OUTPUT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Leveling Output Report</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>RAISE_SYSTEM_EXCEPTION</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Raise System Message (SYST) as CX_T100_MSG</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>READ_DESTINATIONS</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Read the RFC destinations</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>YCL_BC_LEVELING</CLSNAME>
+     <CMPNAME>SAVE_LOG</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Process YBC_LEVELING_ANALYZER Checkpoint</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
