@@ -6,8 +6,13 @@ The system only allow objects with Z or Y development class. Local objects are i
 
 ## Requirements
 
-[ABAP HTML Mail Class](https://github.com/juansebastiansoto/ABAP-HTML-Mail-Class) to send mail with report attached
-[ABAP2XLSX](https://github.com/sapmentors/abap2xlsx) to make the attachment
+[ABAP HTML Mail Class](https://github.com/juansebastiansoto/ABAP-HTML-Mail-Class) to send mail with report attached.
+
+[ABAP2XLSX](https://github.com/sapmentors/abap2xlsx) to make the attachment.
+
+[ALV Magic Catalog](https://github.com/juansebastiansoto/ABAP-ALV-Magic-Catalog) to make the ALV field catalog.
+
+[ABAP Utilities File Class](https://github.com/juansebastiansoto/ABAP-Utilities-File-Class) to combine all object properties into a string.
 
 ## Installation:
 Install the project with [ABAP Git](https://docs.abapgit.org/)

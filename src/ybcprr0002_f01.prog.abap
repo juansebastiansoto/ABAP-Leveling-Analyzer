@@ -138,7 +138,7 @@ FORM pbo_0100.
   CREATE OBJECT o_alv_0100
     EXPORTING
       i_parent          = o_cc_0100
-      i_name            = 'SEBA'
+      i_name            = 'MAIN_ALV'
     EXCEPTIONS
       error_cntl_create = 1
       error_cntl_init   = 2
